@@ -55,7 +55,8 @@ h2 {
 
 h3 {
 	color: rgb(40, 80, 200);
-	margin-bottom: 0px;
+        margin-top: 20px;
+	margin-bottom: 8px;
 }
 
 p, li {
@@ -95,3 +96,9 @@ div.section {
 .top-gap {
 	margin-top: 10px;
 }
+
+p.technologies {
+	font-style: italic;
+        margin-top: 5px;
+}
+
